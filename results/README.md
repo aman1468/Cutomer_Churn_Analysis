@@ -1,8 +1,12 @@
 #Below is the screenshot of churn rate sql query and its result:
 ![Churn Rate Result](Churn_rate.png)
 
-#Churn rate Analysis:
+Results:-26.53% of customers churned in this dataset
 
-Total Customers:-7043	
-Churned Customers:-1869	
-Churn Rate Percentage:-26.54
+Explanation:
+
+Total Customers: Total number of customers in the dataset
+Churned Customers: Number of customers who left
+Churn Rate: Percentage of customers who churned
+
+

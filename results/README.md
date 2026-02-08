@@ -14,6 +14,8 @@ Churn Rate: Percentage of customers who churned
 #Below is the screenshot of churn by contract sql query and its result:
 ![Churn By Contract Result](churn_by_contract.png)
 
-Result:- Months to months contracts have higher churn rate\n 2 years contract have lowest churn rate
+Result:- Months to months contracts have higher churn rate
+
+2 years contract have lowest churn rate
 
 

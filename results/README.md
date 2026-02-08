@@ -11,4 +11,7 @@ Churned Customers: Number of customers who left
 
 Churn Rate: Percentage of customers who churned
 
+#Below is the screenshot of churn by contract sql query and its result:
+![Churn By Contract Result](churn_by_contract.png)
+
 

@@ -1,5 +1,5 @@
 #Below is the screenshot of churn rate sql query and its result:
-![Churn Rate Result](results/churn_rate.png)
+![Churn Rate Result](results/Churn_rate.png)
 
 #Churn rate Analysis:
 

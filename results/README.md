@@ -21,9 +21,9 @@ Result:- Months to months contracts have higher churn rate
 #Below is the screenshot of churn by senior citizen sql query and its result:
 ![Churn By Senior Citizen](churn_by_seniorcitizen.png)
 
-Explanation:- 1 means senior citizen
+Explanation:- 1 in SeniorCitizen Column means senior citizen
 
-0 means not a senior citizen
+0 in SeniorCitizen Column means not a senior citizen
 
 Results:- senior citizens have higher churn rate which is 41.68%
 

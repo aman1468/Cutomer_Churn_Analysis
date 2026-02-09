@@ -34,6 +34,11 @@ Result:- Customers with FiberOptice internet service has higher churn rate which
 
 Customers with no internet servive has lowest churn rate which is 7.4%
 
+#Below is the screenshot of churn by tenure range sql query and its result:
+![Churn By Tenure](churn_by_tenure.png)
+
+Result:- Customers churn rate decreses with increasing tenure range as shown with 47.44% churn rate for 0-12 tenure range to 9.51% churn rate for 49+ tenure range respectively. 
+
 
 
 

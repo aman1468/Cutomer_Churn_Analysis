@@ -27,4 +27,13 @@ Explanation:- 1 in SeniorCitizen Column means senior citizen
 
 Results:- senior citizens have higher churn rate which is 41.68%
 
+#Below is the screenshot of churn by service sql query and its result:
+![Churn By Service](churn_by_service.png)
+
+Result:- Customers with FiberOptice internet service has higher churn rate which is 41.89% follwed by DSL internet service i.e. 18.96%.
+
+Customers with no internet servive has lowest churn rate which is 7.4%
+
+
+
 

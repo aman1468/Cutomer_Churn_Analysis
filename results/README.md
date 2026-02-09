@@ -1,4 +1,4 @@
-#Below is the screenshot of churn rate sql query and its result:
+**#Below is the screenshot of churn rate sql query and its result:**
 ![Churn Rate Result](Churn_rate.png)
 
 Results:-26.53% of customers churned in this dataset
